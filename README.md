@@ -17,8 +17,8 @@ You can grab the following from the merchant portal:
 **Endpoints:**
 - **Production:** `https://ipgpayment.payable.lk/ipg/pro/refund-status`
 - **Sandbox:** `https://sandboxipgpayment.payable.lk/ipg/sandbox/refund-status`
-- **QA:** `https://payable-ipg-dev.web.app/ipg/qa/refund-status`
-- **Dev:** `https://payable-ipg-qa.web.app/ipg/dev/refund-status`
+- **QA:** `https://payable-ipg-qa.web.app/ipg/qa/refund-status`
+- **Dev:** `https://payable-ipg-dev.web.app/ipg/dev/refund-status`
 
 **Request:** `POST` with JSON body:
 ```json
